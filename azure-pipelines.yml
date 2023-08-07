@@ -10,7 +10,7 @@ pool:
   vmImage: ubuntu-latest
 
 variables:
-  webAppName: 'loadtesteol123'
+  webAppName: 'loadtesteol1234'
   serviceConnection: 'aad-loadtesting-connection'
   azureSubscriptionId: 'e1a3f3d8-d79a-4aca-86e3-eb202d018222'
   loadTestResource: 'load-testing-eol'
